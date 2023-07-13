@@ -1,1 +1,1 @@
-# Monitoring-Human-Movements-and-Automated-Alert-System-For-Suspicious-Behavior-using-LSTM-Model.
+# Monitoring-Human-Movements-and-Automated-Alert-System-for-Suspicious-Behaviour-using-LSTM-Model
